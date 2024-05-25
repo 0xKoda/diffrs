@@ -1,0 +1,10 @@
+{
+    "name": "John Doe",
+    "age": 31,
+    "address": {
+        "street": "123 Mainet St",
+        "city": "Anycity",
+        "zipcode": "54321"
+    },
+    "phones": ["123-456-7890"]
+}
