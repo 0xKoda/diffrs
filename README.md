@@ -44,6 +44,3 @@ The tool uses the default editor set in your environment (e.g., `vim`). Ensure y
 export EDITOR=vim
 ```
 
-## License
-
-This project is licensed under the MIT License.
